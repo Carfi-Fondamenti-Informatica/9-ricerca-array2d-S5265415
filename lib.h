@@ -1,2 +1,2 @@
 
-int posizione(char a[10][20], char c[20] );
+int posizione(char a[20][10], char b[20]);
