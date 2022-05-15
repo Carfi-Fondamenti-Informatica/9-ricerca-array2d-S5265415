@@ -1,3 +1,4 @@
+#include "lib.h"
 int posizione(char a[20][10], char b[20]){
     for(int i=0;i<10;i++){
         int j=0;
